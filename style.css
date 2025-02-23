@@ -2,7 +2,7 @@
 body{
     margin: 10px;
     background-color: #d2e5e9;
-    font-family: sans-serif, serif;
+    font-family: Arial;
 }
 
 /* Home section  which has the app name and nav bar. The styling is applied by id */
